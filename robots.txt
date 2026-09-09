@@ -1,0 +1,7 @@
+# 온리핀스 — 이야기(내러티브) 랜딩
+# 홍보 목적이므로 모든 검색엔진에 열어 둔다.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://onlypinspr007.chalia4065.workers.dev/sitemap.xml
