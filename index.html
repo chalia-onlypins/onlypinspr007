@@ -24,9 +24,10 @@
      크롤러가 «가져갈 수 있는 주소»여야 한다. 주소를 바꾸지 말 것(다시 크롤될 때까지 그대로). -->
 <link rel="icon" type="image/png" sizes="96x96" href="/favicon.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<!-- 사이트 소유확인 — 검색엔진 콘솔용. 공개 노출이 전제인 확인 토큰이라 비밀값이 아니다. -->
+<!-- 사이트 소유확인 — 검색엔진 콘솔용. 공개 노출이 전제인 확인 토큰이라 비밀값이 아니다.
+     ⚠️ 지우면 소유확인이 풀려 Search Console 접근이 끊긴다. 값은 _사이트파일.mjs 의 GSV 표에서 온다. -->
 <meta name="google-site-verification" content="tQSWcEKbFO4FKMUNySO-YBs_RyIuwt_-PWj1wFrTC7w">
-
+<meta name="google-site-verification" content="-GleRrF3YU4qh0jkxEr4fKm2OeDsyp7maoGALSA-G4Q">
 <!--SEO:ABS-->
 <link rel="canonical" href="https://adpr0007.onlypins.co.kr/">
 
@@ -71,12 +72,21 @@
       }
     },
     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "온리핀스", "item": "https://onlypins.co.kr" },
+        { "@type": "ListItem", "position": 2, "name": "카드 없이 사는 법", "item": "https://adpr0007.onlypins.co.kr/" }
+      ]
+    },
+    {
       "@type": "WebPage",
       "@id": "https://adpr0007.onlypins.co.kr/#page",
       "url": "https://adpr0007.onlypins.co.kr/",
       "name": "카드를 꺼내지 않고 상품권을 사는 법 | 온리핀스",
       "description": "처음 한 번을 까다롭게 만들고 두 번째부터를 간단하게 한 이유.",
       "inLanguage": "ko-KR",
+      "datePublished": "2026-09-09",
+      "dateModified": "2026-09-09",
       "isPartOf": { "@id": "https://adpr0007.onlypins.co.kr/#org" }
     }
   ]
