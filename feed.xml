@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>온리핀스 가이드</title>
+  <subtitle>카드번호도, 한도도 보지 않고 계좌에서 바로</subtitle>
+  <link href="https://adpr0007.onlypins.co.kr/"/>
+  <link rel="self" href="https://adpr0007.onlypins.co.kr/feed.xml"/>
+  <id>https://adpr0007.onlypins.co.kr/</id>
+  <updated>2026-09-10T09:00:00+09:00</updated>
+  <author><name>온리핀스</name></author>
+  <entry>
+    <title>상품권 구매 자주 묻는 질문 — 결제·수령·환불 | 온리핀스</title>
+    <link href="https://adpr0005.onlypins.co.kr/"/>
+    <id>https://adpr0005.onlypins.co.kr/</id>
+    <updated>2026-09-10T09:00:00+09:00</updated>
+    <summary>어떻게 사나요 · 언제 받나요 · 환불되나요 · 안전한가요</summary>
+  </entry>
+  <entry>
+    <title>상품권 결제수단·권종 비교표 — 무엇이 어떻게 다른가 | 온리핀스</title>
+    <link href="https://adpr0006.onlypins.co.kr/"/>
+    <id>https://adpr0006.onlypins.co.kr/</id>
+    <updated>2026-09-10T09:00:00+09:00</updated>
+    <summary>간편결제 · 카드 · 휴대폰 결제를 표로 비교</summary>
+  </entry>
+  <entry>
+    <title>카드를 꺼내지 않고 상품권을 사는 법 | 온리핀스</title>
+    <link href="https://adpr0007.onlypins.co.kr/"/>
+    <id>https://adpr0007.onlypins.co.kr/</id>
+    <updated>2026-09-10T09:00:00+09:00</updated>
+    <summary>카드번호도, 한도도 보지 않고 계좌에서 바로</summary>
+  </entry>
+  <entry>
+    <title>처음 사는 분을 위한 상품권 구매 안내 | 온리핀스</title>
+    <link href="https://adpr0008.onlypins.co.kr/"/>
+    <id>https://adpr0008.onlypins.co.kr/</id>
+    <updated>2026-09-10T09:00:00+09:00</updated>
+    <summary>준비물 · 다섯 단계 · 받은 뒤 확인 · 안 올 때</summary>
+  </entry>
+</feed>
